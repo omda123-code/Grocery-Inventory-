@@ -19,7 +19,11 @@
 - تنظيف البيانات من خلال استخدام `.head()`, `.info()`, `.describe()`.
 - تحويل `Unit_Price` من نص إلي قيمة رقمية بعد إزالة رموز العملة.
 - رسم العلاقة بين `Stock_Quantity` و `Inventory_Turnover_Rate` باستخدام مخطط scatter.
+- <img width="552" height="422" alt="image" src="https://github.com/user-attachments/assets/40d8cf31-722a-4344-92c3-cbbe63221eee" />
+
 - حساب "Days on Hand" (عدد الأيام التي يكفي فيها المخزون) ورسم توزيعه.
+- ![Uploading image.png…]()
+
 - استخراج وتصنيف المنتجات إلى:
   - **low_stock**: الكمية أقل من مستوى إعادة الطلب ومعدل التدوير أقل من المتوسط.
   - **high_overstock**: الكمية أكبر من ضعف مستوى إعادة الطلب.
